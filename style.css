@@ -553,3 +553,14 @@ footer {
   font-size: 18px;
   line-height: 2;
 }
+
+.contact_container a {
+  color: #20fa03;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.contact_container a:hover {
+  color: #fff;
+}
+
